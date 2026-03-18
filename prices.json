@@ -1,0 +1,26 @@
+[
+  {
+    "productCode": "IPHONE16",
+    "productName": "iPhone 16",
+    "unitPrice": 79999,
+    "currency": "INR"
+  },
+  {
+    "productCode": "IPHONE16PRO",
+    "productName": "iPhone 16 Pro",
+    "unitPrice": 119999,
+    "currency": "INR"
+  },
+  {
+    "productCode": "MACBOOKAIRM3",
+    "productName": "MacBook Air M3",
+    "unitPrice": 134999,
+    "currency": "INR"
+  },
+  {
+    "productCode": "IPADAIR",
+    "productName": "iPad Air",
+    "unitPrice": 59999,
+    "currency": "INR"
+  }
+]
