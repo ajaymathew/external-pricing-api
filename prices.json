@@ -1,26 +1,44 @@
 [
   {
-    "productCode": "IPHONE16",
+    "productCode": "IPH16-BASE",
     "productName": "iPhone 16",
-    "unitPrice": 79999,
+    "unitPrice": 79900,
     "currency": "INR"
   },
   {
-    "productCode": "IPHONE16PRO",
+    "productCode": "APPL-IP16P",
     "productName": "iPhone 16 Pro",
-    "unitPrice": 119999,
+    "unitPrice": 119900,
     "currency": "INR"
   },
   {
-    "productCode": "MACBOOKAIRM3",
-    "productName": "MacBook Air M3",
-    "unitPrice": 134999,
+    "productCode": "APPL-AWS9",
+    "productName": "Apple Watch Series 9",
+    "unitPrice": 41900,
     "currency": "INR"
   },
   {
-    "productCode": "IPADAIR",
+    "productCode": "APPL-IPAD-AIR",
     "productName": "iPad Air",
-    "unitPrice": 59999,
+    "unitPrice": 59900,
+    "currency": "INR"
+  },
+  {
+    "productCode": "APPL-MBA-M3",
+    "productName": "MacBook Air M3",
+    "unitPrice": 114900,
+    "currency": "INR"
+  },
+  {
+    "productCode": "APPL-MUSIC",
+    "productName": "Apple Music",
+    "unitPrice": 99,
+    "currency": "INR"
+  },
+  {
+    "productCode": "APPL-ICLOUD",
+    "productName": "iCloud+ Subscription",
+    "unitPrice": 749,
     "currency": "INR"
   }
 ]
